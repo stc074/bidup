@@ -1,0 +1,2 @@
+RewriteEngine on
+RewriteRule ^(.*)$ /bidup/$1
